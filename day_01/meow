@@ -20,9 +20,20 @@ print("andria" * 10)
 
 
 
-integeri ricxvi 
-cvladi sadac monacems inaxav  iwereba prwkalebis gareshe
-stringi winadadeba
+#integeri ricxvi 
+#cvladi sadac monacems inaxav  iwereba prwkalebis gareshe
+#stringi winadadeba
 
 
-print(9/2)
+#print(9/2)
+
+
+
+
+height=67
+weight=69
+height=float(input("67"))
+weight=float(input("69"))
+
+bmi=weight/ (height*2)
+print("your bmi is",round(bmi,1))
